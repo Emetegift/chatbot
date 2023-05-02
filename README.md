@@ -15,34 +15,3 @@ https://user-images.githubusercontent.com/104801555/235575764-04627b83-c8ce-49d4
 
 Built With:
 Python HTML5 Bootstrap CSS3 Django Jinja SQLite
-
-
-
-Usage
-To get a local copy up and running, follow the steps below.
-
-Prerequisites
-Python3: Get Python
-
-Installation
-Clone this repo
-
-git clone https://github.com/emetegift/chatbot
-Enter the project directory
-
-cd project1 into your Desktop
-Create a virtual environment
-
-pip3 install django
-Create a super user
-
-python manage.py createsuperuser
-Enter your username
-Enter your password
-Enter your password again (confirm password)
-Run the app
-
-python manage.py runserver
-Open the link generated in the terminal on a browser
-
-http://127.0.0.1:8000/bog1
